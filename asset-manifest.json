@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.198df8ae.css",
+    "main.js": "/static/js/main.4bb3bde4.js",
+    "static/media/hero-img.jpg": "/static/media/hero-img.165799c3f169d7306e5f.jpg",
+    "static/media/2img.jpg": "/static/media/2img.63370b1e2567126657f1.jpg",
+    "static/media/Fattoush salad.jpg": "/static/media/Fattoush salad.d5531201f1fda91373be.jpg",
+    "static/media/Egg salad.jpg": "/static/media/Egg salad.047d8af29c08fb318cf8.jpg",
+    "static/media/Vegetable salad.jpg": "/static/media/Vegetable salad.268e602089343a786b8e.jpg",
+    "static/media/salad.jpg": "/static/media/salad.365d4a06e4f1876f15a9.jpg",
+    "static/media/nudail.jpg": "/static/media/nudail.22884e1a66292f9c139c.jpg",
+    "static/media/burger.png": "/static/media/burger.056a5f5d1b29d26c343e.png",
+    "static/media/ice-cream.png": "/static/media/ice-cream.e80692ebd33dd132d37f.png",
+    "static/media/sandvich.png": "/static/media/sandvich.df66e6b95141959b5824.png",
+    "static/media/jush.png": "/static/media/jush.81cd7e4b58fbf53687b8.png",
+    "index.html": "/index.html",
+    "static/media/favicon.svg": "/static/media/favicon.5ba1f62c5f661671bcbe4d5d5232daa3.svg",
+    "main.198df8ae.css.map": "/static/css/main.198df8ae.css.map",
+    "main.4bb3bde4.js.map": "/static/js/main.4bb3bde4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.198df8ae.css",
+    "static/js/main.4bb3bde4.js"
+  ]
+}
